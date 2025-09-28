@@ -10,3 +10,6 @@ New line added inside new branch
 master branch edit[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 featureX branch edit
+
+
+remote repo has this new line
