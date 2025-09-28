@@ -7,8 +7,7 @@ featureX branch edit
 >>>>>>> featureX
 Another line added
 New line added inside new branch
-master branch edit[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+master branch edit
 featureX branch edit
 
 
