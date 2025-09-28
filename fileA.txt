@@ -13,5 +13,4 @@ featureX branch edit
 
 
 remote repo has this new line
-
 another new line in remote repo
