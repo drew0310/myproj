@@ -10,4 +10,8 @@ featureX branch edit
 
 remote repo has this new line
 another new line in remote repo
+<<<<<<< HEAD
 another new line in local repo
+=======
+another new line in local repo
+>>>>>>> 82318ed86a546ce6fa2a13a8d16d4624ca41694a
